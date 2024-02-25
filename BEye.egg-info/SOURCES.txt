@@ -1,0 +1,7 @@
+setup.py
+BEye.egg-info/PKG-INFO
+BEye.egg-info/SOURCES.txt
+BEye.egg-info/dependency_links.txt
+BEye.egg-info/not-zip-safe
+BEye.egg-info/requires.txt
+BEye.egg-info/top_level.txt

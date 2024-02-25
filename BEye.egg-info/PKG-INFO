@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: BEye
+Version: 0.0.1
+Summary: PYPI tutorial package creation written by BEye
+Home-page: https://github.com/teddylee777/teddynote
+Author: oculus
+Author-email: kay5990@naver.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: teddynote,teddylee777,python datasets,python tutorial,pypi
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
